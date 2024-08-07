@@ -50,6 +50,5 @@ see [Process Excellence Explainer Video | Celonis](https://www.celonis.com/resou
 - Distributed Working - groups of people (possibly teams) working from different locations on the same project/task.
 - Synchronous v Asynchronous Working - whether people do or don't need to be working together **at the same time** on a task (in a meeting).
 
-
 ---
-Back to [[(MOC) Digital Workplace Architecture.canvas|Digital Workplace Architecture]]
+[Contents](Contents.md)

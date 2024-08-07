@@ -38,3 +38,5 @@ The perspective of those who pay for the digital workplace; those whose job it i
 	- visible linkage between investment and business results
 - can adapt and develop when the nature or the structure of the business needs it to
 
+---
+[Contents](Contents.md)

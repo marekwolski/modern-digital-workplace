@@ -31,6 +31,5 @@ Authentication and Authorisation
 ### Detect
 
 
-
 ---
-Back to [[(MOC) Digital Workplace Architecture.canvas|Digital Workplace Architecture]]
+[Contents](Contents.md)

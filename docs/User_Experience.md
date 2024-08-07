@@ -25,7 +25,5 @@ See [[User Experience - strategy notes]]
 Experience Level Agreements should probably be a key component of the future digital workplace. So the User Experience "tower" will need to own these: define, measure, develop, ...
 
 
-
-
 ---
-Back to [[(MOC) Digital Workplace Architecture.canvas|Digital Workplace Architecture]]
+[Contents](Contents.md)

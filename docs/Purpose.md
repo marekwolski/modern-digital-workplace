@@ -19,3 +19,6 @@ Therefore … the **GOALS** of the Digital Workplace team are to deliver a digit
  So … the **STRATEGY** of the Digital Workplace team is to work on defined **OBJECTIVES** that deliver measureable **RESULTS** against those goals.
 
 Every **OBJECTIVE** must contribute to meeting one or more of the **GOALS**. In choosing what to work on and what priority it should be given, the objectives should be assessed according to their contribution to the goals.
+
+---
+[Contents](Contents.md)
