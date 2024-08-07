@@ -2,8 +2,6 @@
 
 [Introduction](Introduction.md)
 
-[Contents](Contents.md)
-
 ## Purpose
 
 [Scope and Purpose of the Digital Workplace](Purpose.md)
