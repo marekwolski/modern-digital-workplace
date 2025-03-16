@@ -6,11 +6,11 @@
 
 [Scope and Purpose of the Digital Workplace](Purpose.md)
 
-## The Three Experiences
+## The Three Dimensions
 
-[The Three Experiences - defining what good looks like](Three_Experiences.md)
+[The Three Dimensions - defining what good looks like](Three_Experiences.md)
 
-## The Seven Domains
+## The Seven Value Streams
 
 1. [Devices](Devices.md)
 2. [Applications](Applications.md)
@@ -18,4 +18,4 @@
 4. [Network](Network.md)
 5. [Productivity and Collaboration](Productivity_Collaboration.md)
 6. [User Support](User_Support.md)
-7. [User Experience](User_Experience.md)
+7. [Feedback Loop](User_Experience.md)
