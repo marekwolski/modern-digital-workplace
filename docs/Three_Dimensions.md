@@ -1,6 +1,6 @@
 The Purpose of the Digital Workplace is to connect users to the applications, data and other people they need to get their work done.
 
-The User Experience is only one of three “experiences” that a digital workplace needs to satisfy.
+The User Experience is only one of three dimensions that a digital workplace needs to satisfy.
 
 To be viable, a digital workplace needs to deliver across three “experience” viewpoints simultaneously:
 - User Experience - those who have to use it
