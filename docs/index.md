@@ -6,14 +6,14 @@ In the modern world and the modern work environment, the digital workplace is a 
 
 I start by setting the scope for what I mean by the digital workplace and by defining its purpose.
 
-Next, I cover the three "experiences" by which we decide what good looks like.
+Next, I cover the three dimensions by which we decide what we want good to look like and how we measure progress.
 
-Then I descibe the seven core "jigsaw pieces" or "domains" that comprise the modern digital workplace.
+Then I descibe the seven core Value Streams that combine in a Value Network to deliver the modern digital workplace.
 
 If you take nothing else away after reading my map, then I hope you'll find 1-3-7 useful:
 - One Purpose
-- Three Experiences
-- Seven Domains
+- Three Dimensions
+- Seven Value Streams
 
 ---
 Next: [Contents](Contents.md)
