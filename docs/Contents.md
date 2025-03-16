@@ -8,7 +8,7 @@
 
 ## The Three Dimensions
 
-[The Three Dimensions - defining what good looks like](Three_Experiences.md)
+[The Three Dimensions - defining what good looks like](Three_Dimensions.md)
 
 ## The Seven Value Streams
 
