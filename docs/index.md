@@ -24,3 +24,6 @@ If you take nothing else away after reading my map, then I hope you'll find **1-
 # CAUTION
 
 **This site is a work-in-progress**
+
+![Modern Workplace](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)
+
