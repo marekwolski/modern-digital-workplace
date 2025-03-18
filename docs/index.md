@@ -23,10 +23,6 @@ If you take nothing else away after reading my map, then I hope you'll find **1-
 
 # CAUTION
 
-> [!CAUTION]
-> Advice about risks or negative outcomes of certain actions.
-
 **This site is a work-in-progress**
 
-![Modern Workplace|250](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)
-
+![Modern Workplace250](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)
