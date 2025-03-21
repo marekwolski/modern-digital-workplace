@@ -1,6 +1,7 @@
 # Contents
 
 [Introduction](index.md)
+
 [About Value Streams and the Value Stream approach](ValueStreams.md)
 
 ## Purpose
