@@ -38,8 +38,10 @@
 [Contents](Contents.md)
 
 
-
-
-
 ---
-Back to [[(MOC) Digital Workplace Architecture.canvas|Digital Workplace Architecture]]
+
+# CAUTION
+
+**This site is a work-in-progress**
+
+![Modern Workplace250](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)

@@ -40,3 +40,11 @@ The perspective of those who pay for the digital workplace; those whose job it i
 
 ---
 [Contents](Contents.md)
+
+---
+
+# CAUTION
+
+**This site is a work-in-progress**
+
+![Modern Workplace250](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)

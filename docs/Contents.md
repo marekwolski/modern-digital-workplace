@@ -1,6 +1,7 @@
 # Contents
 
 [Introduction](index.md)
+[About Value Streams and the Value Stream approach](ValueStreams.md)
 
 ## Purpose
 
@@ -10,7 +11,7 @@
 
 [The Three Dimensions - defining what good looks like](Three_Dimensions.md)
 
-## The Seven Value Streams
+## The Seven Value Streams for a digital workplace
 
 1. [Devices](Devices.md)
 2. [Applications](Applications.md)

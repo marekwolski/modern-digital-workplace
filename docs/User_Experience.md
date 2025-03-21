@@ -27,3 +27,11 @@ Experience Level Agreements should probably be a key component of the future dig
 
 ---
 [Contents](Contents.md)
+
+---
+
+# CAUTION
+
+**This site is a work-in-progress**
+
+![Modern Workplace250](images/Gemini_Generated_Image_w3pctvw3pctvw3pc.jpg)
