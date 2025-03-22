@@ -1,3 +1,7 @@
+# CAUTION
+
+**This site is a work-in-progress**
+
 # Contents
 
 [Introduction](index.md)
@@ -23,7 +27,3 @@
 7. [Feedback Loop](Feedback_Loop.md)
 
 ---
-
-# CAUTION
-
-**This site is a work-in-progress**
